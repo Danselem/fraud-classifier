@@ -1,7 +1,7 @@
 #/src/notebooks
 /scripts/ingest/.ipynb*
 #/src/scripts/preparation/.ipynb*
-/src/scripts/modeling/.ipynb*
+#/src/scripts/modeling/.ipynb*
 
 
 
